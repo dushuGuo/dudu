@@ -9,5 +9,7 @@ public class Student {
         System.out.println("guodong");
         System.out.println("admin3");
         System.out.println("admin4");
+        System.out.println("admin5");
+        System.out.println("admin6");
     }
 }
