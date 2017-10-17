@@ -16,5 +16,6 @@ public class Student {
         System.out.println("admin9");
         System.out.println("aaaaaa");
         System.out.println("aaaaaa3");
+        System.out.println("2233");
     }
 }
